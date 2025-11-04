@@ -14,3 +14,23 @@ Today i researched various things such as the motor the chain and the overall bu
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA5NywicHVyIjoiYmxvYl9pZCJ9fQ==--be90cd0e6df14e1f2c8ee2e5bb85c89a98d74dc0/image.png)
   
 
+## 11/4/2025 - Started Modeling and research everything needed  
+
+**Day 2:**
+
+I modeled the battery:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--41b0a3b103426dbdec9334a95c954dcdc77ef9f2/image.png)
+
+Also i finalized which battery I would be using because yeah there ae many types of battery which give diffirent mah rating and discharge rate, i will be using 40 x LG INR18650MJ1 3400mAh (3c) LI-ION BATTERY
+This is suitable because if i do 10S4P setup, it will give about 13 AH with 36 nominal voltage.
+
+I also found the BMS module I will be using:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ea224f2517a95ac67c0f2688de05375cc56a0fe/image.png)
+
+So this is my cheapest setup of the battery which is fully diy i would be spot welding
+Today was like more of research
+
+Helpfull video - [EBike Battery Pack || DIY](https://www.youtube.com/watch?v=b2sBhDxmPmA)
+  
+
